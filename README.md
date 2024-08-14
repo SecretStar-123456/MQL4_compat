@@ -18,7 +18,7 @@ Arunas Pranckevicius (T-1000) published kept maintaining this file between 2013 
 
 This very popular library was unmaintained for years. It didn’t compile with MT5 build 2981 (June 2021). I’m pretty sure this library is on the hard disk of many MQL4 / MQL5 coders. Here I try to keep a maintained version of the original library. 
 
-Please don’t hesitate to send patches / merge request on github :  https://github.com/eromawyn/mql4compat
+Please don’t hesitate to send patches / merge request on github :  https://github.com/SecretStar-123456/MQL4_compat
 
 ## Instruction for usage
 
@@ -141,7 +141,7 @@ Using define for Bars would also affect the Bars function. If you know of any tr
 Changelog only kept since version 2.0 ...
 
 ### Version 2.0
-- First published version on github by Eromawyn
+- First published version on github by Tom
 - Compilation fixes for MQL5 build 2981
 - Adds a library to make a ported script / EA run back in MT4
 
@@ -157,13 +157,13 @@ Changelog only kept since version 2.0 ...
 
 ### Credits
 
-##### Github by Eromawyn (2021)
+##### Github by Tom (2021)
 
- https://github.com/eromawyn/mql4compat 
+ https://github.com/SecretStar-123456/MQL4_compat 
 
 I created this repository after noticing that the original mql4compat wasn’t maintained anylonger, and I couldn’t contact the original author (no response on my MQL5 message, and nobody joined the IRC channel mentionned in the header during a whole month) although this file is very very popular amongst people who need to convert MQL4 code to MQL5. 
 
-##### Original version (2013-2016) by Arunas Pranckevicius (T-1000) 
+##### Original version (2013-2016) by Tom Pranckevicius (T-1000) 
 
 Published on MQL5.com : https://www.mql5.com/en/code/1787
 
